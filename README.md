@@ -17,4 +17,4 @@ Data was cleaned and divided into two datasets, train.csv and test.csv from the 
 Predicted the resident’s compliance with blight tickets in Detroit City. 
 Performed data extraction, cleansing, feature engineering and implemented Gradient Boosting Classification algorithm. Achieved ROC area under curve score of 0.78.
 
-
+Download train and test csv files from [here](https://drive.google.com/file/d/1baAFljc4ZaMpDA6TPAD6jrsw2nzZRaR7/view?usp=sharing)
